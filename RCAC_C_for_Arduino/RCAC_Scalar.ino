@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 struct RCACFLAG {
   static const bool RegZ = true;
   static const float R0 = 10000.0;
