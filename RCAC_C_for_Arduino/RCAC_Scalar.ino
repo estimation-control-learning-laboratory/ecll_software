@@ -1,3 +1,5 @@
+// NOTE THIS IS NOT A COMPLETE VERSION OF RCAC, it is missing the RLS update
+
 #include <Arduino.h>
 #include <vector>
 #include <array>
